@@ -44,4 +44,11 @@ public class menuScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+    public void settings()
+    {
+        Application.LoadLevel(2);
+
+    }
+
 }
