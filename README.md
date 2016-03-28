@@ -1,2 +1,3 @@
 # trapz
-fugistica 3.0 entry fro team antimatter
+
+Unity 2D game for Fuegosticka 3.0 entry from team antimatter. 
